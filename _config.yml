@@ -1,44 +1,26 @@
 # Site settings
-title: 平安喜乐
+title: Microdust
 header-img: "img/autumn2.jpg"
 tagline: "吉光片羽"  
-description: "慢慢来，面包会有的，比面包更好吃的面包也会有的"  
+description: "在遙遠的地方 一切虔誠終必相遇"  
 baseurl: ""
-<<<<<<< HEAD
-url: "http://jenniferhe.github.io"  
-#url: "http://localhost:4000"
-=======
 url: "http://jenn001.com"  
->>>>>>> origin/master
+#url: "http://localhost:4000"
 
 # About/contact
 owner: 
-  name: "Jennifer He"
+  name: "Jennifer"
   email: yuxuan.he@richmond.edu
-<<<<<<< HEAD
-  bio: "我不是一个没有故事的女同学~"
-=======
   bio: "明朝即長路 惜取此時心"
->>>>>>> origin/master
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.ico
 
 douban_username: 阿和盒子
-<<<<<<< HEAD
-#twitter_username: Azeril_Lapland  
 github_username: jenniferhe  
 facebook_username: jennifer he  
-#weibo_username: Azeril  
 zhihu_username: 阿和盒子  
-=======
-# twitter_username: Azeril_Lapland  
-github_username: jenniferhe  
-facebook_username: jennifer he 
-#weibo_username: Azeril  
-#zhihu_username:   
->>>>>>> origin/master
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -70,26 +52,16 @@ defaults:
     values:
       layout: "post"
       author: "Jennifer"
-<<<<<<< HEAD
-      header-img: "img/tree.jpg" # We don't want posts without a header image, that whould mean white on white
-=======
-      header-img: "img/autumn.jpg" # We don't want posts without a header image, that whould mean white on white
->>>>>>> origin/master
+      header-img: "img/autumn2.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-<<<<<<< HEAD
     short_name : Jennifer
   disqus :
       short_name : Jennifer
-=======
-    short_name : Jenniferhe
-  disqus :
-      short_name : Jenniferhe
->>>>>>> origin/master
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-66863061-1
