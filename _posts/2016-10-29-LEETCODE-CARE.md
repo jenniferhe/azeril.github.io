@@ -2,7 +2,7 @@
 layout:     post
 title:      LeetCode_Day_1
 subtitle:  
-header-img: "img/seagulls.jpg"
+header-img: "img/autumn2.jpg"
 ---  
 
 # LEETCODE刷题总结-Day1
