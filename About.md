@@ -9,8 +9,6 @@ header-img: "img/plane.jpg"
     <p><img src="http://www.duoziwang.com/uploads/1512/1-15122H256140-L.jpg" align="center"></p>
 </center>
 
-Ehhhh...I know it's not a good question.
-
 My Name is Jennifer. Besides being programmer, I am also a purposeful traveller, photographer, sports fun and bookaholic.
 
 I have traveled to countries in Asia, Europe, Africa and North America. I enjoy immersing myself into different culture, experiencing novelty and capturing meaningful moments rather than just visiting the “must go attractions”
