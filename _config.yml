@@ -1,8 +1,8 @@
 # Site settings
 title: Microdust
 header-img: "img/autumn2.jpg"
-tagline: "吉光片羽"  
-description: "在遙遠的地方 一切虔誠終必相遇"  
+tagline: "阿和盒子"  
+description: "歲月是壹場有去無回的旅行. 好的壞的都是風景"  
 baseurl: ""
 url: "jenniferhe.github.io"
 #url: "http://www.jenn001.com"  
@@ -12,7 +12,7 @@ url: "jenniferhe.github.io"
 owner: 
   name: "Jennifer"
   email: yuxuan.he@richmond.edu
-  bio: "明朝即長路 惜取此時心"
+  bio: "Programmer| Photographer | Traveller | Lifelong Learner"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -56,13 +56,6 @@ defaults:
       header-img: "img/autumn2.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
-# Comments 
-comments :
-  provider : duoshuo
-  duoshuo :
-    short_name : Jennifer
-  disqus :
-      short_name : Jennifer
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-66863061-1
