@@ -6,19 +6,18 @@ header-img: "img/plane.jpg"
 ---
 
 <center>
-    <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
+    <p><img src="http://www.duoziwang.com/uploads/1512/1-15122H256140-L.jpg" align="center"></p>
 </center>
 
 Ehhhh...I know it's not a good question.
 
-My Name is Azeril. You may find me in sites like douban.com / Goodreads.com / Facebook / Instagram / Twitter / Weibo.com, so on and so forth. It’s easy to know me. My short name is Az., quite easy to remember, right?
+My Name is Jennifer. Besides being programmer, I am also a purposeful traveller, photographer, sports fun and bookaholic.
 
-喜欢折腾的伪技术宅。一点点 geek，一丢丢的执著，就像吃烧烤时多少会撒一点孜然，恰到好处就够。日常之中，多的是折腾劲，也希望能添几分专注、几许勇敢。这就是我。
+I have traveled to countries in Asia, Europe, Africa and North America. I enjoy immersing myself into different culture, experiencing novelty and capturing meaningful moments rather than just visiting the “must go attractions”
 
-——Azeril
+I love basketball, table tennis, marathon, skiing, and rock climbing. 
+I love to read and my favorite book is One Hundred Years of Solitude.
 
-
-> Live long and prosper
 
 <center>
     <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
