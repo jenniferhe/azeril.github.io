@@ -6,6 +6,9 @@ header-img: "img/autumn2.jpg"
 ---
 
 <center>
+
+“img/self.jpg”
+
     <p><img src="http://www.duoziwang.com/uploads/1512/1-15122H256140-L.jpg" align="center"></p>
 </center>
 
