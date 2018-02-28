@@ -25,6 +25,10 @@ Build your blog Step by step
 
 Start writing now！
 
-Personal Notes：
-Blogs to study:
-http://huangxuan.me/
+## Personal Notes：
+Todo List:
+ - Build locally
+ - Write about travel
+ - Put travel details to blog
+ - Study Blogs to add side bar:http://huangxuan.me/
+
