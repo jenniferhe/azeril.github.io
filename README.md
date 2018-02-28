@@ -24,3 +24,7 @@ Build your blog Step by step
 ## Just write
 
 Start writing now！
+
+Personal Notes：
+Blogs to study:
+http://huangxuan.me/
