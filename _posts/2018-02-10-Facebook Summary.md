@@ -2,7 +2,7 @@
 layout: post  
 title: 面试总结 Facebook Summary
 subtitle: 
-header-img: "img/seagulls.jpg"
+header-img: "img/1.jpg"
 categories: [blog ]  
 tags: [leetcode]
 description: 「Leetcode 解题思路」  
