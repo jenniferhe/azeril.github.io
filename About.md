@@ -6,9 +6,8 @@ header-img: "img/1.jpg"
 ---
 
 <center>
-
-![test](/images/self.jpg)
-
+<p><img src="{{/images/self.jpg}}">
+</center>
 My Name is Jennifer. Besides being programmer, I am also a purposeful traveller, photographer, sports fun and bookaholic.
 
 I have traveled to countries in Asia, Europe, Africa and North America. I enjoy immersing myself into different culture, experiencing novelty and capturing meaningful moments rather than just visiting the “must go attractions”
