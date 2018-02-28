@@ -6,7 +6,7 @@ header-img: "img/1.jpg"
 ---
 
 <center>
-	<p><img src="/images/self.jpg"></p>
+	<p><img src="https://github.com/jenniferhe/jenniferhe.github.io/blob/master/images/self.jpg?raw=true"></p>
 </center>
 
 My Name is Jennifer. Besides being programmer, I am also a purposeful traveller, photographer, sports fun and bookaholic.
