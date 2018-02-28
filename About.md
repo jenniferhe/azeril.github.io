@@ -7,7 +7,7 @@ header-img: "img/1.jpg"
 
 <center>
 
-“img/self.jpg”
+![-]({{ "/images/self.PNG"}})
 
     <p><img src="http://www.duoziwang.com/uploads/1512/1-15122H256140-L.jpg" align="center"></p>
 </center>

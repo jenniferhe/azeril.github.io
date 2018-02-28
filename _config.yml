@@ -53,7 +53,7 @@ defaults:
     values:
       layout: "post"
       author: "Jennifer"
-      header-img: "img/autumn2.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/1.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
 
