@@ -2,7 +2,7 @@
 layout: page
 title: "Past Projects"
 description: 
-header-img: "img/2.jpg"
+header-img: "img/1.jpg"
 ---
 
 ## 鸟类图片图像识别 Bird Picture Image Recognition Project
