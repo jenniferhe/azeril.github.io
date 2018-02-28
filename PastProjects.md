@@ -52,4 +52,4 @@ After running with stratified random data splits for ~100 runs, mean validation 
 
 这是一个24小时的hackthon项目，智能礼物推荐网站。它是基于node.js + express + bootstrap framework实现的。由用户提交送礼对象的Twitter页面或Linkedin页面或Pinterest页面，然后页面后台进行文字抓取，然后根据文字频率找出相关的amazon礼物页面
 
-  <img src="https://github.com/jenniferhe/LinkedinHackDay_GiftRecommendation/blob/master/misty.gif?raw=true" width="600" height="400" />
+  <img src="https://raw.githubusercontent.com/jenniferhe/LinkedinHackDay_GiftRecommendation/master/misty.gif" width="600" height="400" />
