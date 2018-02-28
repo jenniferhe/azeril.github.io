@@ -5,7 +5,9 @@ description: "嘿，你总算找到我啦"
 header-img: "img/1.jpg"
 ---
 
-<img src="https://github.com/jenniferhe/jenniferhe.github.io/blob/master/images/self.jpg?raw=true" width="260" align="center"/>
+<center>
+<p><img src="https://github.com/jenniferhe/jenniferhe.github.io/blob/master/images/self.jpg?raw=true" width="260" align="center"/></p>
+</center>
 
 My Name is Jennifer. Besides being programmer, I am also a purposeful traveller, photographer, sports fun and bookaholic.
 
