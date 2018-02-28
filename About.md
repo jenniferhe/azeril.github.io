@@ -15,7 +15,3 @@ I have traveled to countries in Asia, Europe, Africa and North America. I enjoy 
 
 I am also a huge fun of sports. I love basketball, table tennis, marathon, skiing, and rock climbing. 
 
-
-<center>
-    <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
-</center>
