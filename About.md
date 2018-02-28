@@ -5,6 +5,8 @@ description: "嘿，你总算找到我啦"
 header-img: "img/1.jpg"
 ---
 
+<img src="https://github.com/jenniferhe/jenniferhe.github.io/blob/master/images/self.jpg?raw=true" width="300"/>
+
 <center>
 	<p><img src="https://github.com/jenniferhe/jenniferhe.github.io/blob/master/images/self.jpg?raw=true" align="center"></p>
 </center>
