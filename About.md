@@ -7,10 +7,7 @@ header-img: "img/1.jpg"
 
 <center>
 
-![-]({{ "/images/self.PNG"}})
-
-    <p><img src="http://www.duoziwang.com/uploads/1512/1-15122H256140-L.jpg" align="center"></p>
-</center>
+![test](/images/self.jpg)
 
 My Name is Jennifer. Besides being programmer, I am also a purposeful traveller, photographer, sports fun and bookaholic.
 
