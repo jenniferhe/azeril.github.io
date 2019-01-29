@@ -25,9 +25,7 @@ It is a coursework we did following full data science pipeline:
 
 **Modeling and Evaluation**:  Explored multiple models and delivered a [report](https://github.com/jenniferhe/Restaurant_Inspection_Forcasting/blob/master/New%20York%20City%20Restaurant%20Inspection%20Analysis%20and%20Forecasting.pdf)  listed the outstanding model results including Random Forest, LightGBM and Ensemble method. The best AUC score we reached was 0.74 which is around the same level to the highest scores we seen on the web
 
-![Data4](https://i.imgur.com/5ee60fD.png)
-
-![Data5](https://i.imgur.com/vr0Fp1q.png)
+![Data4](https://i.imgur.com/M5rKUwm.png)
 
 [See more on my Github page](https://github.com/jenniferhe/Restaurant_Inspection_Forcasting)
 
