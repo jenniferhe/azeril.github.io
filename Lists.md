@@ -5,7 +5,30 @@ description:
 header-img: "img/1.jpg"
 ---
 
+### 餐厅食品质量安全监测预测 **Restaurant Inspection Outcome Forcast**
+
+It is a coursework we did following full data science pipeline: 
+
+**Business Understanding**: forecast restaurant inspection outcomes in order to offer insight to NYC health department, i.e. whether they should give priority to inspect certain restaurant. 
+
+**Data Preparation**: Crawled, selected and feature engineered geological, time and syntax data from various sources
+
+![Data](https://i.imgur.com/s27f3q9.png)
+
+![Data2](https://i.imgur.com/qMWhTnt.png)
+
+![Data3](https://i.imgur.com/w6LDSBD.png)
+
+**Modeling and Evaluation**:  Explored multiple models and delivered a [report](https://github.com/jenniferhe/Restaurant_Inspection_Forcasting/blob/master/New%20York%20City%20Restaurant%20Inspection%20Analysis%20and%20Forecasting.pdf)  listed the outstanding model results including Random Forest, LightGBM and Ensemble method. The best AUC score we reached was 0.74 which is around the same level to the highest scores we seen on the web
+
+![Data4](https://i.imgur.com/5ee60fD.png)
+
+![Data5](https://i.imgur.com/vr0Fp1q.png)
+
+[See more on my Github page](https://github.com/jenniferhe/Restaurant_Inspection_Forcasting)
+
 ## 鸟类图片图像识别 Bird Picture Image Recognition Project
+
 利用Python Theano/Lasagne库实现的基于神经网络的图像识别项目
 
 Applying Machinge Learning Techniques to Bird Species Classification
