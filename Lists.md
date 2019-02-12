@@ -70,7 +70,21 @@ Cooperated with multiple teams to design an internal logging system that support
 (Due to company policy, the Github page is not available)
 
 
+
+### **Enigma Datathon: NYC Subway Performance Rating Factor Analysis**
+
+First Place winner of  2019 Enigma Datathon.
+
+Performed NYC Subway Performance Rating Factor Analysis using multiple large-scale datasets provided by Enigma and build R-Shiny App to visualize the end results.
+
+Identified the relationship between subway performance with evevator outage frequency, customer feedback data, permanent art catalogue and etc.
+
+![image](https://i.imgur.com/crPediF.png)
+
+[R-Shiny App](https://bofei.shinyapps.io/Enigma_App)
+
 ## 在线即时餐厅搜索项目 Webbased online resestaurant search project
+
 利用Algolia提供的搜索云服务，导入湾区餐厅数据，通过实时系统建立了索引，完成高时效性的立即查询
 
 Use Algolia's search as a service to build a small prototype that able to provide instantaneous, multi-platform and type-tolerant search on local restaurants.
@@ -81,9 +95,7 @@ Use Algolia's search as a service to build a small prototype that able to provid
 
 [Github page](https://github.com/jenniferhe/algolia_final)
 
-
-
-# LinkedIn_Hackday_2016
+### **LinkedIn_Hackday_2016**
 
 这是一个24小时的hackthon项目，智能礼物推荐网站。它是基于node.js + express + bootstrap framework实现的。由用户提交送礼对象的Twitter页面或Linkedin页面或Pinterest页面，然后页面后台进行文字抓取，然后根据文字频率找出相关的amazon礼物页面
 
