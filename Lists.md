@@ -7,9 +7,7 @@ header-img: "img/1.jpg"
 
 
 
-
-
-## 餐厅食品质量安全监测预测 **Restaurant Inspection Outcome Forcast**
+## **餐厅食品质量安全监测预测 Restaurant Inspection Outcome Forcast**
 
 It is a coursework we did following full data science pipeline: 
 
@@ -27,16 +25,17 @@ It is a coursework we did following full data science pipeline:
 
 ![Data4](https://i.imgur.com/M5rKUwm.png)
 
-[See more on my Github page](https://github.com/jenniferhe/Restaurant_Inspection_Forcasting)
+[**See more on my Github page**](https://github.com/jenniferhe/Restaurant_Inspection_Forcasting)
 
-## 鸟类图片图像识别 Bird Picture Image Recognition Project
+## **鸟类图片图像识别 Bird Picture Image Recognition Project**
 
 利用Python Theano/Lasagne库实现的基于神经网络的图像识别项目
 
 Applying Machinge Learning Techniques to Bird Species Classification
 
 ![Sample Bird Images](http://i.imgur.com/R2rdTBe.png)
-[Github page](https://github.com/jenniferhe/Bird_Recognition_Lasagne)
+
+[**Github page**](https://github.com/jenniferhe/Bird_Recognition_Lasagne)
 
 最佳结果出自sx3_ffc_b32.py， 因为它不但在时间花费上比较短（CPU和GPU两种情况都考虑时）且最终达到90%以上的准确率
 
@@ -59,9 +58,12 @@ After running with stratified random data splits for ~100 runs, mean validation 
 
 ![Graph of Data](http://i.imgur.com/GeW4UUM.png)
 
-***
 
-## 领英广告数据可视化系统 Linkedin Marketing Solution Private Logging System
+
+
+
+## **领英广告数据可视化系统 Linkedin Marketing Solution Private Logging System**
+
 在领英广告组负责管理广告数据库并支持公司内部和第三方对广告的使用，使用Couchbase, ElasticSearch, Restli filters, Kibana等技术建立可视化日志文件，支持跨数据中心的加密存储、搜索、可视化和分析，帮助提升组内员工的效率
 
 Cooperated with multiple teams to design an internal logging system that supported securely logging, indexing, searching, storing, visualizing and analyzing of billions of confidential log records stored across multiple data centers 
@@ -71,7 +73,7 @@ Cooperated with multiple teams to design an internal logging system that support
 
 
 
-### **Enigma Datathon: NYC Subway Performance Rating Factor Analysis**
+## **Enigma Datathon: NYC Subway Performance Rating Factor Analysis**
 
 First Place winner of  2019 Enigma Datathon.
 
@@ -81,9 +83,11 @@ Identified the relationship between subway performance with evevator outage freq
 
 ![image](https://i.imgur.com/crPediF.png)
 
-[R-Shiny App](https://bofei.shinyapps.io/Enigma_App)
+[**R-Shiny App**](https://bofei.shinyapps.io/Enigma_App)
 
-## 在线即时餐厅搜索项目 Webbased online resestaurant search project
+
+
+## **在线即时餐厅搜索项目 Webbased online resestaurant search project**
 
 利用Algolia提供的搜索云服务，导入湾区餐厅数据，通过实时系统建立了索引，完成高时效性的立即查询
 
@@ -93,9 +97,9 @@ Use Algolia's search as a service to build a small prototype that able to provid
 
 <img src="https://raw.githubusercontent.com/jenniferhe/algolia_final/master/test1.gif" width="600" height="400" />
 
-[Github page](https://github.com/jenniferhe/algolia_final)
+[**Github page**](https://github.com/jenniferhe/algolia_final)
 
-### **LinkedIn_Hackday_2016**
+## **LinkedIn_Hackday_2016**
 
 这是一个24小时的hackthon项目，智能礼物推荐网站。它是基于node.js + express + bootstrap framework实现的。由用户提交送礼对象的Twitter页面或Linkedin页面或Pinterest页面，然后页面后台进行文字抓取，然后根据文字频率找出相关的amazon礼物页面
 
