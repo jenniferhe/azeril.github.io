@@ -7,6 +7,18 @@ header-img: "img/1.jpg"
 
 
 
+## **基于情感的聊天机器人 Emotional Chatting Machine**
+
+On the current stage, machine learning (focus purely on the context of the words) for dialogue generation has been widely studied. Indeed, existing studies of Prendinger et al. show that addressing emotion in dialogue system can enhance user satisfaction, contribute to a more positive perception of the interaction, and lead to fewer breakdowns in dialogues. Therefore, to improve conversational agent performance, our goal is to utilize and improve Emotional Chatting Machine(ECM) that can generate appropriate responses not only in content but also in emotion.
+
+We used BiLSTM model to create sentimental classifier to label emotion categories for data. Then use a variant of seq2seq model that incorporates emotion embedding, internal memory and external memory to generate response Y =(y_1,y_2,...,y_m) that is coherent with the emotion category e Given any post X = (x_1,x_2,...,x_n) .
+
+- ⽤用Python, Pytorch建⽴立基于seq2seq Gated RNN为 基础的⾃自然语⾔言处理理模型 
+- ✓  提升模型使其可以接受情感词汇embedding,internal memory和external memory 
+- ✓  使⽤用globalattentionmechanism进⼀一步提升模型提 ⾼高对话可读性 
+
+[**See more on my Github page**](<https://github.com/jenniferhe/EmotionalChattingMachine>)
+
 ## **餐厅食品质量安全监测预测 Restaurant Inspection Outcome Forcast**
 
 It is a coursework we did following full data science pipeline: 
