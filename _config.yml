@@ -1,7 +1,7 @@
 # Site settings
-title: Microdust
+title: Jenn's Blog | 简
 header-img: "img/1.jpg"
-tagline: "阿和盒子"  
+tagline: "简单生活"  
 description: "歲月是壹場有去無回的旅行. 好的壞的都是風景"  
 baseurl: ""
 url: "jenniferhe.github.io"
@@ -11,8 +11,8 @@ url: "jenniferhe.github.io"
 # About/contact
 owner: 
   name: "Jennifer"
-  email: yuxuan.he@richmond.edu
-  bio: "Programmer| Photographer | Traveller | Lifelong Learner"
+  email: yuxuan.he.1@gmail.com
+  bio: "Data Savy | NLP specialized | Intentional Living"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
